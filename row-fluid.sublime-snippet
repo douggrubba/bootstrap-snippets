@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="row-fluid">
+
+</div>
+]]></content>
+    <tabTrigger>bs:row-fluid</tabTrigger>
+</snippet>
