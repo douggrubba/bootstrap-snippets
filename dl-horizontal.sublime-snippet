@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<dl class="dl-horizontal">
+  <dt></dt>
+  <dd></dd>
+</dl>
+]]></content>
+    <tabTrigger>bs:dl</tabTrigger>
+</snippet>
