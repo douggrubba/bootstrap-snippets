@@ -5,6 +5,8 @@ __All triggered by a tab.__
 * `dl` - dl-horizontal
 * `row-fluid` - row-fluid
 * `row` - row
+* `row-3s` - row with 4 '<div class="span3"></div>'
+* `row-4s` - row with 3 '<div class="span4"></div>'
 * `span` - div class="spanx"
 
 ```
