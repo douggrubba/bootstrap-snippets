@@ -3,6 +3,7 @@
 __All triggered by a tab.__
 
 * `dl` - dl-horizontal
+* `dropdown` - dropdown menu
 * `row-fluid` - row-fluid
 * `row` - row
 * `row-3s` - row with 4 '<div class="span3"></div>'
