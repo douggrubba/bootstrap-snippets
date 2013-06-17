@@ -2,6 +2,7 @@
 
 __All triggered by a tab.__
 
+* `alert` - alert box
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
 * `row-fluid` - row-fluid
