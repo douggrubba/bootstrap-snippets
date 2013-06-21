@@ -5,6 +5,10 @@ __All triggered by a tab.__
 * `alert` - alert box
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
+* `progress` - plain progress bar
+* `progress-animated` - animated progress bar
+* `progress-stacket` - stacked progress bar
+* `progress-striped` - striped progress bar
 * `row-fluid` - row-fluid
 * `row` - row
 * `row-3s` - row with 4 '<div class="span3"></div>'
