@@ -5,6 +5,8 @@ __All triggered by a tab.__
 * `alert` - alert box
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
+* `dropdown-btn` - dropdown button menu
+* `pag` - pagination
 * `progress` - plain progress bar
 * `progress-animated` - animated progress bar
 * `progress-stacket` - stacked progress bar
