@@ -3,6 +3,8 @@
 __All triggered by a tab.__
 
 * `alert` - alert box
+* `btn` - simple button
+* `btn-link` - simple button (using <a></a>)
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
 * `dropdown-btn` - dropdown button menu

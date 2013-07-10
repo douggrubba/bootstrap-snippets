@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+  <a href="${1}" type="button" class="${2}">${3}</a>
+]]></content>
+    <tabTrigger>bs:btn-link</tabTrigger>
+</snippet>
