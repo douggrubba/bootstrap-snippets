@@ -3,4 +3,5 @@
   <a href="${1}" type="button" class="${2}">${3}</a>
 ]]></content>
     <tabTrigger>bs:btn-link</tabTrigger>
+    <description>Looks like a button, acts like a link.</description>
 </snippet>

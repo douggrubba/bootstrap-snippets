@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:row-fluid</tabTrigger>
+    <description>Simple fluid width row.</description>
 </snippet>

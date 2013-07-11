@@ -23,4 +23,5 @@
 </table>
 ]]></content>
     <tabTrigger>bs:table-full</tabTrigger>
+    <description>Boilerplate table code.</description>
 </snippet>

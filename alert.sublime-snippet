@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:alert</tabTrigger>
+    <description>Alert div to let the user know about an action.</description>
 </snippet>

@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:progress-striped</tabTrigger>
+    <description>Striped progress bars.</description>
 </snippet>

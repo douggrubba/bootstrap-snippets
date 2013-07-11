@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:container</tabTrigger>
+    <description>Basic container for rows and spans.</description>
 </snippet>

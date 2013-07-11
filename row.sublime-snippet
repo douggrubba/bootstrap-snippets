@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:row</tabTrigger>
+    <description>Most basic row.</description>
 </snippet>

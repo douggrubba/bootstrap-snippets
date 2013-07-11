@@ -3,4 +3,5 @@
   <button type="button" class="${1}">${2}</button>
 ]]></content>
     <tabTrigger>bs:btn</tabTrigger>
+    <description>Default button.</description>
 </snippet>

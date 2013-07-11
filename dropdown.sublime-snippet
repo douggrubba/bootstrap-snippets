@@ -5,4 +5,5 @@
 </ul>
 ]]></content>
     <tabTrigger>bs:dropdown</tabTrigger>
+    <description>Basic dropdown menu</description>
 </snippet>

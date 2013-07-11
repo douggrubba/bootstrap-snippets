@@ -5,4 +5,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:progress</tabTrigger>
+    <description>Basic progress bar.</description>
 </snippet>

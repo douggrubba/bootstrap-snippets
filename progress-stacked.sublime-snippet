@@ -7,4 +7,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:progress-animated</tabTrigger>
+    <description>Stacked progress bars.</description>
 </snippet>

@@ -12,4 +12,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:row-3s</tabTrigger>
+    <description>Boilerplate of a row with 4 span3's</description>
 </snippet>

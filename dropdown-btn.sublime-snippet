@@ -11,4 +11,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs:dropdown-btn</tabTrigger>
+    <description>Dropdown that is based off a button.</description>
 </snippet>
