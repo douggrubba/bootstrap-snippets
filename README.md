@@ -5,7 +5,7 @@ __All triggered by a tab.__
 * `abbr` - abbreviated text with initialism
 * `alert` - alert box
 * `btn` - simple button
-* `btn-link` - simple button (using <a></a>)
+* `btn-link` - simple button (using`<a></a>`)
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
 * `dropdown-btn` - dropdown button menu
