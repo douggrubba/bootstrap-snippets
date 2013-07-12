@@ -1,8 +1,9 @@
 # Bootstrap Snippets
 
-__All triggered by a tab.__
+__All triggered by a tab and prefixed with `bs:`.__
 
 * `abbr` - abbreviated text with initialism
+* `address` - address block
 * `alert` - alert box
 * `btn` - simple button
 * `btn-link` - simple button (using <a></a>)
