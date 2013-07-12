@@ -6,7 +6,7 @@ __All triggered by a tab and prefixed with `bs:`.__
 * `address` - address block
 * `alert` - alert box
 * `btn` - simple button
-* `btn-link` - simple button (using <a></a>)
+* `btn-link` - simple button (using`<a></a>`)
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
 * `dropdown-btn` - dropdown button menu
@@ -18,8 +18,8 @@ __All triggered by a tab and prefixed with `bs:`.__
 * `progress-striped` - striped progress bar
 * `row-fluid` - row-fluid
 * `row` - row
-* `row-3s` - row with 4 '<div class="span3"></div>'
-* `row-4s` - row with 3 '<div class="span4"></div>'
+* `row-3s` - row with 4 `<div class="span3"></div>`
+* `row-4s` - row with 3 `<div class="span4"></div>`
 * `span` - div class="spanx"
 
 ```
