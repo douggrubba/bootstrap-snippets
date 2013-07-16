@@ -16,6 +16,7 @@ __All triggered by a tab and prefixed with `bs:`.__
 * `progress-animated` - animated progress bar
 * `progress-stacket` - stacked progress bar
 * `progress-striped` - striped progress bar
+* `quote` - boilerplate blockquote
 * `row-fluid` - row-fluid
 * `row` - row
 * `row-3s` - row with 4 `<div class="span3"></div>`

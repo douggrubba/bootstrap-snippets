@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<blockquote>
+  <p>${1:quote}</p>
+  <small>${2:person} <cite title="${3:source-title}">${3:source-title}</cite></small>
+</blockquote>
+]]></content>
+    <tabTrigger>bs:quote</tabTrigger>
+    <description>Boilerplate blockquote.</description>
+</snippet>
