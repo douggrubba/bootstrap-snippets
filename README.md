@@ -12,6 +12,7 @@ __All triggered by a tab and prefixed with `bs:`.__
 * `dropdown-btn` - dropdown button menu
 * `horizontal-form` - boilerplate for an horizontal form
 * `inline-form` - boilerplate for an inline form
+* `input-addon` - boilerplate for addons on inputs
 * `lead` - Lead text that is meant to stand out
 * `pag` - pagination
 * `progress` - plain progress bar
