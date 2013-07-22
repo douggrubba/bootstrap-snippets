@@ -6,6 +6,7 @@ __All triggered by a tab and prefixed with `bs:`.__
 * `address` - address block
 * `alert` - alert box
 * `btn` - simple button
+* `btn-group` - simple button group
 * `btn-link` - simple button (using`<a></a>`)
 * `dl` - dl-horizontal
 * `dropdown` - dropdown menu
