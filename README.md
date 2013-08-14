@@ -1,5 +1,7 @@
 # Bootstrap Snippets
 
+## @TODO:  Looks like some grid stuff has changed, for the better.
+
 __All triggered by a tab and prefixed with `bs:`.__
 
 * `abbr` - abbreviated text with initialism
