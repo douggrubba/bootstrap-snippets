@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<button type="button" class="btn btn-${1:default}">${2:name}</button>
+]]></content>
+    <tabTrigger>bs4-button</tabTrigger>
+</snippet>
