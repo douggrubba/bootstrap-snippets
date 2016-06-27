@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<abbr title="${1}" class="initialism">${2}</abbr>
-]]></content>
-    <tabTrigger>bs:abbr</tabTrigger>
-    <description>Abbreviated text with slightly smaller text.</description>
-</snippet>

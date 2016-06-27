@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<p class="lead">${1}</p>
-]]></content>
-    <tabTrigger>bs:lead</tabTrigger>
-    <description>Lead text, slightly bigger to standout.</description>
-</snippet>

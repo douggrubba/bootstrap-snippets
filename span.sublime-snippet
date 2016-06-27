@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="span${1}">
-
-</div>
-]]></content>
-    <tabTrigger>bs:span</tabTrigger>
-    <description>Div span for inside a row.</description>
-</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="progress progress-striped">
-  <div class="bar" style="width: ${1}%;"></div>
-</div>
-]]></content>
-    <tabTrigger>bs:progress-striped</tabTrigger>
-    <description>Striped progress bars.</description>
-</snippet>

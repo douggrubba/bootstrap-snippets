@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="row">
-
-</div>
-]]></content>
-    <tabTrigger>bs:row</tabTrigger>
-    <description>Most basic row.</description>
-</snippet>

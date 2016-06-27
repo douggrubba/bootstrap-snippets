@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<div class="row-fluid">
-
-</div>
-]]></content>
-    <tabTrigger>bs:row-fluid</tabTrigger>
-    <description>Simple fluid width row.</description>
-</snippet>
