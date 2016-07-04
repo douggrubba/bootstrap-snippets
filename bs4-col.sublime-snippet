@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-md-${1:col}">
+    ${2:codez}
+</div>
+]]></content>
+    <tabTrigger>bs4-col</tabTrigger>
+</snippet>

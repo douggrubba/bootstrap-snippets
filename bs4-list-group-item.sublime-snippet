@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<li class="list-group-item">${1:li}</li>
+]]></content>
+    <tabTrigger>bs4-list-group-item</tabTrigger>
+</snippet>
