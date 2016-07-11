@@ -1,12 +1,12 @@
-# bootstrap 4 Sublime Snippets
+# Bootstrap 4 Sublime Snippets
 
 Helpful Bootstrap 4 snippets for rapid development using the Sublime Text 3 text editor.
 
 ## Development
 
-```npm install gulp -g```
+```$ npm install gulp -g```
 
-```npm install```
+```$ npm install```
 
 __Create .env.json - destination folder__
 
@@ -18,4 +18,4 @@ __Create .env.json - destination folder__
 
 Will copy snippets from your repo to the snippets destination.
 
-```gulp```
+```$ gulp```
