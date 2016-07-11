@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button type="button" class="btn btn-${1:default}">${2:name}</button>
+Route::get('${1:url}', ['as' => '${2:route-name}', function () {
+    ${3:codez}
+}]);
+]]></content>
+    <tabTrigger>l5-route-simple</tabTrigger>
+</snippet>
