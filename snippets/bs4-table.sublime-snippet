@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<table class="table table-striped table-bordered">
+    <thead class="thead-inverse">
+        <tr>
+            <th>${1:th}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>${2:td}</td>
+        </tr>
+    </tbody>
+</table>
+]]></content>
+    <tabTrigger>bs4-table</tabTrigger>
+</snippet>

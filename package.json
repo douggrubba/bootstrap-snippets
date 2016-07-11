@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douggdev/bootstrap-snippets.git"
+  },
+  "author": "Doug Grubba <douglas.grubba@gmail.com> (http://douggrubba.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douggdev/bootstrap-snippets/issues"
+  },
+  "homepage": "https://github.com/douggdev/bootstrap-snippets#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-env": "^0.4.0"
+  }
+}
